@@ -3,8 +3,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A description of your site.
 
-baseurl: ""
-url: "https://snlandge.github.io" # if deploying to GitHub Pages or custom domain
+baseurl: "/my-website"
+url: "https://username.github.io"
 
 theme: minimal-mistakes-jekyll
 
