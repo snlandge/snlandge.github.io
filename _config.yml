@@ -1,0 +1,23 @@
+title: My Website
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A description of your site.
+
+baseurl: "" # for root directory hosting
+url: "http://your-domain.com" # if deploying to GitHub Pages or custom domain
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Optional: Social media settings (you can customize these later)
+author:
+  name: "Your Name"
+  avatar: "/assets/images/avatar.jpg" # optional image
+  social:
+    twitter: yourtwitterhandle
+    github: yourgithubusername
+
+# Other customizations like Google Analytics, Disqus, etc., can be added later
