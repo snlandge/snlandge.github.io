@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A description of your site.
 
 baseurl: ""
-url: "https://username.github.io" # if deploying to GitHub Pages or custom domain
+url: "https://snlandge.github.io" # if deploying to GitHub Pages or custom domain
 
 theme: minimal-mistakes-jekyll
 
