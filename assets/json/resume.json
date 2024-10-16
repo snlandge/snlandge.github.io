@@ -26,13 +26,13 @@
     {
       "institution": "The Graduate Center, City University of New York (CUNY)",
       "location": "New York, NY ",
-      "url": "",
-      "area": "",
+      "url": "A",
+      "area": "B",
       "studyType": "Ph.D. Candidate in Economics",
       "startDate": "2020",
       "endDate": "Present",
-      "score": "",
-      "courses": [""]
+      "score": "C",
+      "courses": ["D"]
     },
     {
       "institution": "The Graduate Center, City University of New York (CUNY)",
@@ -73,8 +73,8 @@
       "url": "",
       "area": "",
       "studyType": "Bachelor of Engineering (B.E.) in Electrical Engineering",
-      "startDate": "2008",
-      "endDate": "2010",
+      "startDate": "2003",
+      "endDate": "2007",
       "score": "",
       "courses": [""]
     }
