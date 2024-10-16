@@ -81,33 +81,31 @@
   ],
   "Research Experience": [
     {
-      "name": "Advisor: Prof. Isaac Ehrlich, University at Buffalo, SUNY",
-      "position": "Independent Research",
-      "url": "https://example.com",
-      "startDate": "2019-08-01",
-      "endDate": "2019-12-01",
-      "summary": "Conducted research on how the college premium has changed over time using CPS as a data source under the supervision of Prof. Isaac Ehrlich.",
-      "highlights": ""
+        "name": "Advisor: Prof. Isaac Ehrlich, University at Buffalo, SUNY",
+        "position": "Independent Research",
+        "url": "https://example.com",
+        "startDate": "2019-08-01",
+        "endDate": "2019-12-01",
+        "summary": "Conducted research on how the college premium has changed over time using CPS as a data source under the supervision of Prof. Isaac Ehrlich.",
+        "highlights": ""
     },
     {
-      "name": "Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY",
-      "position": "Research Assistant",
-      "url": "https://example.com",
-      "startDate": "2019-08-01",
-      "endDate": "2019-12-01",
-      "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
-      "highlights": ""
+        "name": "Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY",
+        "position": "Research Assistant",
+        "url": "https://example.com",
+        "startDate": "2019-08-01",
+        "endDate": "2019-12-01",
+        "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
+        "highlights": ""
     },
     {
-      "name": "Intergenerational Transmission of Occupations in the USA",
-      "position": "Working Papers",
-      "url": "https://example.com",
-      "startDate": "2020-08-01",
-      "endDate": "2023-12-01",
-      "summary": "Explores the mechanisms of detailed occupational inheritance in the U.S.",
-      "highlights": ""
-      "name": "Intergenerational ",
-      "summary": "Explore.",
+        "name": "Intergenerational Transmission of Occupations in the USA",
+        "position": "Working Papers",
+        "url": "https://example.com",
+        "startDate": "2020-08-01",
+        "endDate": "2023-12-01",
+        "summary": "Explores the mechanisms of detailed occupational inheritance in the U.S.",
+        "highlights": ""
     }
   ],
   "volunteer": [
