@@ -26,13 +26,14 @@
     {
       "institution": "The Graduate Center, City University of New York (CUNY)",
       "location": "New York, NY ",
-      "url": "A",
-      "area": "B",
+      "url": "",
+      "area": "",
       "studyType": "Ph.D. Candidate in Economics",
       "startDate": "2020",
       "endDate": "Present",
-      "score": "C",
-      "courses": ["D"]
+      "score": "",
+      "order": 1,
+      "courses": ["Advisor: Prof. Miles Corak"]
     },
     {
       "institution": "The Graduate Center, City University of New York (CUNY)",
