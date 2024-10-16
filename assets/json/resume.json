@@ -1,27 +1,39 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Swapnil Landge",
+    "label": "Ph.D. Candidate in Economics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "slandge@gradcenter.cuny.edu",
+    "phone": "(513) 680-3936",
+    "url": "//https://swapnillandge.com/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "",
+        "url": ""
       }
     ]
   },
+   "education": [
+    {
+      "institution": "The Graduate Center, City University of New York (CUNY)",
+      "location": "New York , NewYork",
+      "url": "",
+      "area": "",
+      "studyType": "Ph.D. Candidate in Economics",
+      "startDate": "2020",
+      "endDate": "Present",
+      "score": "",
+      "courses": [""]
+    }
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -45,18 +57,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+ 
   ],
   "awards": [
     {
