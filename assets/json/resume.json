@@ -30,7 +30,7 @@
       "area": "",
       "studyType": "Ph.D. Candidate in Economics",
       "startDate": "2020",
-      "endDate": "Present (Expected 2026)",
+      "endDate": "Present",
       "score": "",
       "courses": ["Advisor: Prof. Miles Corak"]
     },
@@ -101,20 +101,20 @@
   ],
   "Working Papers": [
     {
-      "name": "Advisor: Prof. Isaac Ehrlich, University at Buffalo, SUNY",
-      "position": "Independent Research",
+      "name": "",
+      "position": "Intergenerational Transmission of Occupations in the USA",
       "url": "https://example.com",
-      "startDate": "2019-08-01",
-      "endDate": "2019-12-01",
-      "summary": "Conducted research on how the college premium has changed over time using CPS as a data source under the supervision of Prof. Isaac Ehrlich, University at Buffalo, SUNY",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Explores the mechanisms of detailed occupational inheritance and intergenerational transition matrix in the U.S.",
       "highlights": ""
     },
     {
-      "name": "Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY",
-      "position": "Research Assistant",
+      "name": "",
+      "position": "Exchange Rate Forecast Model: Factor Analysis",
       "url": "https://example.com",
-      "startDate": "2022-01-01",
-      "endDate": "2022-08-01",
+      "startDate": "",
+      "endDate": "",
       "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
       "highlights": ""
     }
