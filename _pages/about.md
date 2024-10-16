@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m Swapnil Landge, a PhD Candidate in Economics at [The Graduate Center, City University of New York (CUNY)] (https://www.gc.cuny.edu/). I am also an adjunct lecturer at [Baruch College's Zicklin School of Business] (https://www.baruch.cuny.edu/) and [Brooklyn College's Murray Koppelman School of Business](https://www.brooklyn.edu/). My research spans intergenerational occupational mobility, income inequality, labor economics and applied microeconomics with a focus on how these areas intersect to shape economic outcomes.
+<a><strong>Hello!</strong></a> I’m Swapnil Landge, a PhD Candidate in Economics at [The Graduate Center, City University of New York (CUNY)](https://www.gc.cuny.edu/). I am also an adjunct lecturer at [Baruch College's Zicklin School of Business](https://www.baruch.cuny.edu/) and [Brooklyn College's Murray Koppelman School of Business](https://www.brooklyn.edu/). My research spans intergenerational occupational mobility, income inequality, labor economics, and applied microeconomics, with a focus on how these areas intersect to shape economic outcomes.
