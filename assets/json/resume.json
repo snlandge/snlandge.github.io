@@ -33,7 +33,52 @@
       "endDate": "Present",
       "score": "",
       "courses": [""]
+    },
+     {
+      "institution": "The Graduate Center, City University of New York (CUNY)",
+      "location": "New York , NewYork",
+      "url": "",
+      "area": "",
+      "studyType": "M.Phil. in Economics",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "",
+      "courses": [""]
+    },
+     {
+      "institution": "University at Buffalo, State University of New York (SUNY)",
+      "location": "Buffalo , NewYork",
+      "url": "",
+      "area": "",
+      "studyType": "Master of Science (M.S.) in Econometrics and Quantitative Economics",
+      "startDate": "2018",
+      "endDate": "2020",
+      "score": "",
+      "courses": [""]
+    },
+     {
+      "institution": "Symbiosis Institute of Operations Management, SIU Pune, India",
+      "location": "Pune , India",
+      "url": "",
+      "area": "",
+      "studyType": "Master of Business Administration (MBA) in Operations Management",
+      "startDate": "2008",
+      "endDate": "2010",
+      "score": "",
+      "courses": [""]
+    },
+     {
+      "institution": "Government College of Engineering, Karad, India",
+      "location": "Pune , India",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of Engineering (B.E.) in Electrical Engineering",
+      "startDate": "2008",
+      "endDate": "2010",
+      "score": "",
+      "courses": [""]
     }
+     ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -58,7 +103,6 @@
     }
   ],
  
-  ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
