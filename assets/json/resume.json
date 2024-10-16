@@ -44,7 +44,7 @@
       "startDate": "2020",
       "endDate": "2023",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "University at Buffalo, State University of New York (SUNY)",
@@ -55,7 +55,7 @@
       "startDate": "2018",
       "endDate": "2020",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "Symbiosis Institute of Operations Management, SIU Pune, India",
@@ -66,7 +66,7 @@
       "startDate": "2008",
       "endDate": "2010",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "Government College of Engineering, Karad, India",
@@ -77,17 +77,48 @@
       "startDate": "2003",
       "endDate": "2007",
       "score": "",
-      "courses": [""]
+      "courses": ""
+    }
+  ],
+  "Research Experience": [
+    {
+      "name": "Advisor: Prof. Isaac Ehrlich, University at Buffalo, SUNY",
+      "position": "Independent Research",
+      "url": "https://example.com",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-01",
+      "summary": " Conducted research on How has the college premium changed over time?" using CPS as a data source under the supervision of Prof. Isaac Ehrlich",
+      "highlights": ""
+    },
+    {
+      "name": "Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY",
+      "position": "Research Assistant",
+      "url": "https://example.com",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-01",
+      "summary": " Conducted research on How has the college premium changed over time?" using CPS as a data source under the supervision of Prof. Isaac Ehrlich",
+      "highlights": ""
+    },
+    {
+      "name": "Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY",
+      "position": "Research Assistant",
+      "url": "https://example.com",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-01",
+      "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
+      "highlights": ["Intergenerational Transmission of Occupations in the USA
+Explores the mechanisms of occupational inheritance and its effect on income inequality in the U.S.
+","Exchange Rate Forecast Model: Factor Analysis Utilizes factor analysis to develop a model for forecasting exchange rates, based on historical data"]
     }
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "abcd",
+      "position": "Working and term Papers",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-01",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
