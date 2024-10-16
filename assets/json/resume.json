@@ -25,7 +25,7 @@
    "education": [
     {
       "institution": "The Graduate Center, City University of New York (CUNY)",
-      "location": "New York , NewYork",
+      "location": "New York, NY ",
       "url": "",
       "area": "",
       "studyType": "Ph.D. Candidate in Economics",
@@ -36,7 +36,7 @@
     },
      {
       "institution": "The Graduate Center, City University of New York (CUNY)",
-      "location": "New York , NewYork",
+      "location": "New York, NY ",
       "url": "",
       "area": "",
       "studyType": "M.Phil. in Economics",
@@ -47,7 +47,7 @@
     },
      {
       "institution": "University at Buffalo, State University of New York (SUNY)",
-      "location": "Buffalo , NewYork",
+      "location": "Buffalo, NY",
       "url": "",
       "area": "",
       "studyType": "Master of Science (M.S.) in Econometrics and Quantitative Economics",
@@ -58,7 +58,7 @@
     },
      {
       "institution": "Symbiosis Institute of Operations Management, SIU Pune, India",
-      "location": "Pune , India",
+      "location": "Pune, India",
       "url": "",
       "area": "",
       "studyType": "Master of Business Administration (MBA) in Operations Management",
@@ -69,7 +69,7 @@
     },
      {
       "institution": "Government College of Engineering, Karad, India",
-      "location": "Pune , India",
+      "location": "Karad, India",
       "url": "",
       "area": "",
       "studyType": "Bachelor of Engineering (B.E.) in Electrical Engineering",
