@@ -87,16 +87,7 @@
       "url": "https://example.com",
       "startDate": "2019-08-01",
       "endDate": "2019-12-01",
-      "summary": " Conducted research on How has the college premium changed over time?" using CPS as a data source under the supervision of Prof. Isaac Ehrlich",
-      "highlights": ""
-    },
-    {
-      "name": "Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY",
-      "position": "Research Assistant",
-      "url": "https://example.com",
-      "startDate": "2019-08-01",
-      "endDate": "2019-12-01",
-      "summary": " Conducted research on How has the college premium changed over time?" using CPS as a data source under the supervision of Prof. Isaac Ehrlich",
+      "summary": "Conducted research on How has the college premium changed over time using CPS as a data source under the supervision of Prof. Isaac Ehrlich",
       "highlights": ""
     },
     {
@@ -106,9 +97,7 @@
       "startDate": "2019-08-01",
       "endDate": "2019-12-01",
       "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
-      "highlights": ["Intergenerational Transmission of Occupations in the USA
-Explores the mechanisms of occupational inheritance and its effect on income inequality in the U.S.
-","Exchange Rate Forecast Model: Factor Analysis Utilizes factor analysis to develop a model for forecasting exchange rates, based on historical data"]
+      "highlights": ""
     }
   ],
   "work": [
