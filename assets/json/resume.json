@@ -79,33 +79,15 @@
       "courses": ""
     }
   ],
-  "Research Experience": [
+  "work": [
     {
-        "name": "Advisor: Prof. Isaac Ehrlich, University at Buffalo, SUNY",
-        "position": "Independent Research",
-        "url": "https://example.com",
-        "startDate": "2019-08-01",
-        "endDate": "2019-12-01",
-        "summary": "Conducted research on how the college premium has changed over time using CPS as a data source under the supervision of Prof. Isaac Ehrlich.",
-        "highlights": ""
-    },
-    {
-        "name": "Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY",
-        "position": "Research Assistant",
-        "url": "https://example.com",
-        "startDate": "2019-08-01",
-        "endDate": "2019-12-01",
-        "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
-        "highlights": ""
-    },
-    {
-        "name": "Intergenerational Transmission of Occupations in the USA",
-        "position": "Working Papers",
-        "url": "https://example.com",
-        "startDate": "2020-08-01",
-        "endDate": "2023-12-01",
-        "summary": "Explores the mechanisms of detailed occupational inheritance in the U.S.",
-        "highlights": ""
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -120,7 +102,6 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
- 
   "awards": [
     {
       "title": "Nobel Prize in Physics",
