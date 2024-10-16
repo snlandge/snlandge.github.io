@@ -32,7 +32,6 @@
       "startDate": "2020",
       "endDate": "Present",
       "score": "",
-      "order": 1,
       "courses": ["Advisor: Prof. Miles Corak"]
     },
     {
@@ -98,7 +97,17 @@
       "endDate": "2019-12-01",
       "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
       "highlights": ""
-    }
+    }.
+    {
+      "name": "Intergenerational Transmission of Occupations in the USA",
+      "position": "Working Papers",
+      "url": "https://example.com",
+      "startDate": "2020-08-01",
+      "endDate": "2023-12-01",
+      "summary": "Explores the mechanisms of detailed occupational inheritance in the U.S.",
+      "highlights": ""
+      "name": "Intergenerational ",
+      "summary": "Explore.",
   ],
   "volunteer": [
     {
