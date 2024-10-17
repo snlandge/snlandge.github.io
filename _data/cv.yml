@@ -50,9 +50,21 @@
     - title: Working papers
       year: 2021-2023
       description: 
-        - title: Intergenerational Transmission of Occupations in the USA
+       - title: Intergenerational Transmission of Occupations in the USA
           contents:
             - Explores the mechanisms of occupational inheritance and intergenerational transition matrix in the U.S.
+       - title: Relationship between Intergenerational Mobility (IGM) and Economic Growth: Evidence from Cross-Country Data
+          contents:
+            - Investigate the link between IGM and economic growth using a cross-country dataset.
+       - title: Exchange Rate Forecast Model Using Factor Analysis
+          contents:
+            - Utilizes factor analysis to develop a model for forecasting exchange rates based on historical data.
+       - title: Public Debt, Its Impact on GDP & Crowding Out Effect: Evidence from the USA
+          contents:
+            - Examines how public debt influences GDP and assesses the crowding-out effect in the U.S. context.
+       - title: Term Structure of Interest Rates in the U.S.: A Cointegration Analysis
+          contents:
+            - Analyzes the term structure of interest rates using cointegration techniques to assess long-term trends.
 - title: Research Experience
   type: time_table
   contents:
