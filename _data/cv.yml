@@ -1,32 +1,27 @@
-- title: General Information
+- title:
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Swapnil Landge
+    - name: Email
+      value: slandge@gradcenter.cuny.edu
+    - name: Phone
+      value: (513) 680-3936
+    - name: url
+      value: https://swapnillandge.com/
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate in Economics
+      institution: The Graduate Center, City University of New York (CUNY)
+      year: 2020-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Prof. Miles Corak
+    - title: M.Phil. in Economics
+      institution: The Graduate Center, City University of New York (CUNY)
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
