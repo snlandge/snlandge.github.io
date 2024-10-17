@@ -59,7 +59,7 @@
           contents:
             - Investigate the link between IGM and economic growth using a
               cross-country dataset.
-        - title:<i> Exchange Rate Forecast Model:Factor Analysis</i>
+        - title: <i>Exchange Rate Forecast Model:Factor Analysis</i>
           contents:
             - Utilizes factor analysis to develop a model for forecasting
               exchange rates based on historical data.
