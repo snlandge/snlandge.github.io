@@ -59,15 +59,15 @@
           contents:
             - Investigate the link between IGM and economic growth using a
               cross-country dataset.
-        - title: <i>Exchange Rate Forecast Model:Factor Analysis</i>
+        - title: <i>Exchange Rate Forecast Model:</i><i>Factor Analysis</i>
           contents:
             - Utilizes factor analysis to develop a model for forecasting
               exchange rates based on historical data.
-        - title: <i>Public Debt, Its Impact on GDP & Crowding Out Effect: Evidence from the USA</i>
+        - title: <i>Public Debt, Its Impact on GDP & Crowding Out Effect:</i><i>Evidence from the USA</i>
           contents:
             - Examines how public debt influences GDP and assesses the
               crowding-out effect in the U.S. context.
-        - title: <i>Term Structure of Interest Rates in the U.S: A Cointegration Analysis</i>
+        - title: <i>Term Structure of Interest Rates in the U.S:</i><i>A Cointegration Analysis</i>
           contents:
             - Analyzes the term structure of interest rates using cointegration
               techniques to assess long-term trends.
