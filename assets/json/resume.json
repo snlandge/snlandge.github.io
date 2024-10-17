@@ -99,7 +99,7 @@
       "highlights": ""
     }
   ],
-  "Working Papers": [
+  "working papers": [
     {
       "name": "",
       "position": "Intergenerational Transmission of Occupations in the USA",
@@ -109,6 +109,15 @@
       "summary": "Explores the mechanisms of detailed occupational inheritance and intergenerational transition matrix in the U.S.",
       "highlights": ""
     },
+     {
+      "name": "",
+      "position": "Relationship between Intergenerational Mobility (IGM) and Economic Growth: Evidence from Cross-Country Data",
+      "url": "https://example.com",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Investigates the link between IGM and economic growth using a cross-country dataset.",
+      "highlights": ""
+    },
     {
       "name": "",
       "position": "Exchange Rate Forecast Model: Factor Analysis",
@@ -116,6 +125,25 @@
       "startDate": "",
       "endDate": "",
       "summary": "Conducted literature reviews, data collection, and statistical analysis for various research projects.",
+      "highlights": ""
+    },
+     {
+      "name": "",
+      "position": "Public Debt, Its Impact on GDP & Crowding Out Effect: Evidence from the USA",
+      "url": "https://example.com",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Examines how public debt influences GDP and assesses the crowding-out effect in the U.S. context.",
+      "highlights": ""
+    },
+    ,
+     {
+      "name": "",
+      "position": "•	Term Structure of Interest Rates in the U.S.: A Cointegration Analysis",
+      "url": "https://example.com",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Analyzes the term structure of interest rates using cointegration techniques to assess long-term trends.",
       "highlights": ""
     }
   ],
