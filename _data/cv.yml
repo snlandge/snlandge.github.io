@@ -49,8 +49,11 @@
         - Conducted literature reviews, data collection, and statistical
           analysis for various research projects.
     - title: Working papers
-      year: 2021-2023
+      year: 2021-2024
       description:
+        - title: <i>Intergenerational Self-Selection Model:</i><i>The Influence of Fathers' and Mothers' Occupations on Children’s Occupational Outcomes</i>
+          contents:
+            - This paper addresses the mechanisms through which parental occupations impact children’s career choices and income outcomes, focusing on both fathers' and mothers' roles in intergenerational occupational mobility.
         - title: <i>Intergenerational Transmission of Occupations in the USA</i>
           contents:
             - Explores the mechanisms of occupational inheritance and
@@ -71,6 +74,23 @@
           contents:
             - Analyzes the term structure of interest rates using cointegration
               techniques to assess long-term trends.
+- title: Publications/ papers under review
+  type: nested_list
+  contents:
+    - title: "Legacy of Labour: The Impact of Parental Occupations on Children’s Careers Choices and Income Inequality"
+      items:
+        - under review at Journal of Labor Research
+- title: Peer Review Activities
+  type: time_table
+  contents:
+    - title: Reviewer for the Journal of Health Economics and Outcomes Research 
+      year: 2024
+      description:
+        - Conducted peer reviews for manuscripts on topics related to market economics in health.
+    - title: Reviewer for the Јoսrnal of Finance and Accounting 
+      year: 2024
+      description:
+        - Conducted peer reviews for manuscripts on topics related to financial economics.
 - title: Research Experience
   type: time_table
   contents:
