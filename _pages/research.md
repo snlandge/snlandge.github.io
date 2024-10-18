@@ -7,39 +7,31 @@ nav: true
 nav_order: 7
 ---
 
-## Academic Year 2024-2025
 
-- **Fall 2024**
-  - Adjunct Lecturer, Intro to Economics & Business Statistics (ECON 3400), Brooklyn College, NY
-  - Adjunct Lecturer, Business Statistics (STA 2000) and Microeconomics (ECO 1001), Baruch College, NY
+### Publications 
+  ## Papers Under Review
+- **Legacy of Labour: The Impact of Parental Occupations on Children’s Career Choices and Income Inequality**  
+  *Under review at Journal of Labor Research.*
 
-## Academic Year 2023-2024
+### Work in Progress
 
-- **Fall 2023**
-  - Adjunct Lecturer, two sections of Mathematical Economics (ECON 3410), Brooklyn College, NY
-  - Adjunct Lecturer, Business Statistics (STA 2000) and Honors Microeconomics (ECO 1001H), Baruch College, NY
-- **Spring 2024**
-  - Adjunct Lecturer, two sections of Mathematical Economics (ECON 3410), Brooklyn College, NY
-  - Adjunct Lecturer, Business Statistics (STA 2000) and Microeconomics (ECO 1001), Baruch College, NY
-- **Summer 2024**
-  - Adjunct Lecturer, Intro to Economics & Business Statistics (ECON 3400) and Mathematical Economics (ECON 3410), Brooklyn College, NY
+- **Intergenerational Self-Selection Model: The Influence of Fathers' and Mothers' Occupations on Children’s Occupational Outcomes**  
+  This paper explores the mechanisms through which parental occupations influence children's career choices and income outcomes, focusing on both fathers' and mothers' roles in intergenerational occupational mobility.
 
-## Academic Year 2022-2023
+### Working Papers / Term Papers
 
-- **Fall 2022**
-  - Adjunct Lecturer, Elementary Macroeconomics (ECON 2100) and Mathematical Economics (ECON 3410), Brooklyn College, NY
-  - Adjunct Lecturer, Business Statistics (STA 2000), Baruch College, NY
-- **Spring 2023**
-  - Adjunct Lecturer, Elementary Microeconomics (ECON 2200) and Mathematical Economics (ECON 3410), Brooklyn College, NY
-  - Adjunct Lecturer, Business Statistics (STA 2000) and Microeconomics (ECO 1001), Baruch College, NY
-- **Summer 2023**
-  - Adjunct Lecturer, Business Statistics (ECON 3400), Brooklyn College, NY
+- **Intergenerational Transmission of Occupations in the USA**  
+  Explores the mechanisms of occupational inheritance and intergenerational transition matrices in the U.S.
 
-## Academic Year 2021-2022
+- **Relationship between Intergenerational Mobility (IGM) and Economic Growth: Evidence from Cross-Country Data**  
+  Investigates the link between intergenerational mobility and economic growth using a cross-country dataset.
 
-- **Fall 2021**
-  - Adjunct Lecturer, Elementary Macroeconomics (ECON 2100), Brooklyn College, NY
-- **Spring 2022**
-  - Adjunct Lecturer, Elementary Macroeconomics (ECON 2100) and Mathematical Economics (ECON 3410), Brooklyn College, NY
-- **Summer 2022**
-  - Adjunct Lecturer, Mathematical Economics (ECON 3410), Brooklyn College, NY
+- **Exchange Rate Forecast Model: Factor Analysis**  
+  Utilizes factor analysis to develop a model for forecasting exchange rates based on historical data.
+
+- **Public Debt, Its Impact on GDP & Crowding Out Effect: Evidence from the USA**  
+  Examines how public debt influences GDP and assesses the crowding-out effect in the U.S. context.
+
+- **Term Structure of Interest Rates in the U.S: A Cointegration Analysis**  
+  Analyzes the term structure of interest rates using cointegration techniques to assess long-term trends.
+
