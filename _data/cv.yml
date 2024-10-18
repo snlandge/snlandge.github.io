@@ -129,14 +129,13 @@
       institution: Procter & Gamble (P&G)
       year: 2020
       description:
-        - Managed project timelines and deliverables for the P&G transformation
+        - Managed project timelines and deliverables for the P&G SAP HANA transformation
           project.
     - title: Project Manager
       institution: Robert Bosch
       year: 2010 - 2019
       description:
-        - Led multiple projects in manufacturing and operations, ensuring timely
-          completion and adherence to quality standards.
+        - Led multiple IT and process transformation projects in various manufacturing plants.
     - title: Founder
       institution: Breakfastwala.com
       year: 2009 - 2010
@@ -147,7 +146,7 @@
       institution: Emerson Network Power
       year: 2007 - 2008
       description:
-        - Provided technical support and managed power systems for
+        - Provided technical support, Pres sales and managed power systems for
           telecommunications clients.
 - title: Honors and Awards
   type: time_table
