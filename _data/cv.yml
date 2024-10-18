@@ -75,11 +75,11 @@
             - Analyzes the term structure of interest rates using cointegration
               techniques to assess long-term trends.
 - title: Publications/ papers under review
-  type: nested_list
+  type: time_table
   contents:
-    - title: "Legacy of Labour: The Impact of Parental Occupations on Children’s Careers Choices and Income Inequality"
+    - title: <i>"Legacy of Labour: The Impact of Parental Occupations on Children’s Careers Choices and Income Inequality"</i>under review at Journal of Labor Research
       items:
-        - under review at Journal of Labor Research
+        -
 - title: Referee service
   type: time_table
   contents:
@@ -95,7 +95,7 @@
   type: time_table
   contents:
     - title: Adjunct lecturer
-      institution:Brooklyn College (Economics department)
+      institution: Brooklyn College (Economics department)
       year: Aug 2021 - Present
       description:
         - Courses taught:-
