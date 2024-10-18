@@ -1,15 +1,11 @@
 ---
 layout: page
 permalink: /Research/
-title: research
+title:
 description:
 nav: true
 nav_order: 7
 ---
-
-#
-
-
 
 ### Publications
 
