@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Teaching/
+permalink: /Re/
 title: teaching
 description:
 nav: true
@@ -9,7 +9,7 @@ nav_order: 7
 
 ### Publications
 
-###      Papers Under Review
+### Papers Under Review
 
 - **Legacy of Labour: The Impact of Parental Occupations on Children’s Career Choices and Income Inequality**\
   *Under review at Journal of Labor Research.*
