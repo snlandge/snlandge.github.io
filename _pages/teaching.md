@@ -7,6 +7,18 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Independent Research
+      year: 2019
+      description:
+        - Advisor:- Prof. Isaac Ehrlich, University at Buffalo, SUNY
+        - Researched how the college premium has changed over time using CPS as
+          a data source.
+    - title: Independent Research
+      year: 2022
+      description:
+        - Advisor:- Prof. Hany Guirguis, Manhattan College, New York, NY
+        - Conducted literature reviews, data collection, and statistical
+          analysis for various research projects.
