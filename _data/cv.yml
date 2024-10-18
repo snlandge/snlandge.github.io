@@ -17,7 +17,7 @@
       institution: The Graduate Center, City University of New York (CUNY)
       year: 2020-Present
       description:
-        - Advisor: Prof. Miles Corak
+        - Advisor:- Prof. Miles Corak
     - title: M.Phil. in Economics
       institution: The Graduate Center, City University of New York (CUNY)
       year: 2020-2023
@@ -40,13 +40,13 @@
     - title: Independent Research
       year: 2019
       description:
-        - Advisor: Prof. Isaac Ehrlich, University at Buffalo, SUNY
+        - Advisor:- Prof. Isaac Ehrlich, University at Buffalo, SUNY
         - Researched how the college premium has changed over time using CPS as
           a data source.
     - title: Independent Research
       year: 2022
       description:
-        - Advisor: Prof. Hany Guirguis, Manhattan College, New York, NY
+        - Advisor:- Prof. Hany Guirguis, Manhattan College, New York, NY
         - Conducted literature reviews, data collection, and statistical
           analysis for various research projects.
     - title: Working Papers
@@ -89,18 +89,18 @@
 - title: Publications/Papers Under Review
   type: time_table
   contents:
-    - title: <i>Legacy of Labour:<i></i> The Impact of Parental Occupations on
-        Children’s Career Choices and Income Inequality</i>
-      year: Under review at Journal of Labor Research
-      description: null
+    - title: 
+      year: 
+      description: <i>Legacy of Labour:<i></i> The Impact of Parental Occupations on
+        Children’s Career Choices and Income Inequality</i> Under review at Journal of Labor Research
 - title: Referee Service
   type: time_table
   contents:
     - title: Reviewer for the Journal of Health Economics and Outcomes Research
       year: 2024
       description:
-        - Conducted peer reviews for manuscripts on topics related to market
-          economics in health.
+        - Conducted peer reviews for manuscripts on topics related to the market
+          in health economics 
     - title: Reviewer for the Journal of Finance and Accounting
       year: 2024
       description:
@@ -113,15 +113,22 @@
       institution: Brooklyn College, New York, NY (Economics Department)
       year: 2021 - Present
       description:
-        - Courses taught: Elementary Macroeconomics, Elementary Microeconomics,
+        - Courses taught:- Elementary Macroeconomics, Elementary Microeconomics,
             Mathematical Economics, and Business Statistics.
-        - Total Courses Taught: 16 courses.
+        - Total Courses Taught:- 16 courses.
     - title: Adjunct Lecturer
       institution: Baruch College, New York, NY (Economics and Statistics Departments)
       year: 2022 - Present
       description:
-        - Courses taught: Microeconomics, Business Statistics, and Microeconomics (Honors).
-        - Total Courses Taught: 9 courses.
+        - Courses taught:- Microeconomics, Business Statistics, and Microeconomics (Honors).
+        - Total Courses Taught:- 9 courses.
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020-2025
+      description:
+        - Graduate Center Fellowship, The Graduate Center, CUNY (fully funded
+          for five years)
 - title: Professional Experience
   type: time_table
   contents:
@@ -148,13 +155,6 @@
       description:
         - Provided technical support, Pres sales and managed power systems for
           telecommunications clients.
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2020-2025
-      description:
-        - Graduate Center Fellowship, The Graduate Center, CUNY (fully funded
-          for five years)
 - title: Skills
   type: nested_list
   contents:
