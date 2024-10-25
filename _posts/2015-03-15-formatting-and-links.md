@@ -37,14 +37,12 @@ Associate Director, Stone Center on Socio-Economic Inequality
 
 Receiving this email was an exciting moment, and I eagerly accepted the invitation.
 
-The workshop itself was incredibly well-structured, with each day packed with insightful presentations and discussions. The sessions ranged from topics on labor unions and wealth inequality to health disparities and political participation. Notable speakers such as Leslie McCall, Paul Krugman, and Branko Milanovic shared their invaluable expertise on a wide array of topics. Each talk was complemented by interactive research consultations that allowed participants to discuss their work and receive feedback from peers and experts.
-
-The hands-on sessions were among the highlights of the week. I particularly enjoyed Tina Law's tutorial on computational methods for inequality research, which provided me with practical tools that I plan to incorporate into my own research. Another standout session was by Bhash Mazumder, who focused on intergenerational mobility, a topic closely related to my dissertation work.
+The workshop itself was incredibly well-structured, with each day packed with insightful presentations and discussions. The sessions ranged from topics on labor unions and wealth inequality to health disparities and political participation. Notable speakers such as Leslie McCall, Paul Krugman, and Branko Milanovic shared their invaluable expertise on a wide array of topics. I particularly enjoyed sessions with Branko Milanovic, Suresh Naidu, and Bhash Mazumder, as their insights were closely aligned with my research on income inequality and intergenerational mobility. It was also a privilege to listen to Nobel Laureate Paul Krugman discuss perceptions of the economy, an unforgettable experience.
 
 Networking was another invaluable part of the workshop. I had the opportunity to meet and interact with fellow researchers, many of whom are working on similar issues related to income inequality, labor markets, and policy impacts. These connections have already proven fruitful in fostering potential collaborations for future research.
 
 Reflecting on my experience, the [*Inequality by Numbers*](https://stonecenter.gc.cuny.edu/stone-centers-inequality-by-the-numbers-workshop-returns-in-person-at-the-graduate-center/#) workshop has significantly enriched my understanding of inequality in both theoretical and practical terms. I look forward to applying the knowledge and techniques I gained here to my ongoing research on intergenerational occupational mobility and income inequality.
 
-Thank you to Leslie McCall and the entire organizing team at the Stone Center for creating such a dynamic and engaging workshop. I highly recommend this experience to any scholar working in the field of inequality studies!
+Thank you to the entire organizing team at the Stone Center for creating such a dynamic and engaging workshop. I highly recommend this experience to any scholar working in the field of inequality studies!
 
 ---
