@@ -3,7 +3,8 @@ layout: post
 title: My Experience at the 2024 Inequality by Numbers Workshop
 date: 2024-06-10 16:40:16
 description: Inequality by Numbers Workshop
-tags: formatting links
+tags:
+
 categories: sample-posts
 ---
 
