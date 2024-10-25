@@ -24,6 +24,6 @@ I am currently working on my dissertation under the supervision of [Professor Mi
 
 In addition to my research, I teach economics courses, which allows me to share my passion for the field with students.
 
-Explore my work on the [Research]([link to research page](https://snlandge.github.io/projects/)) and [Publications]([link to publications page](https://snlandge.github.io/publications/)) pages. For collaborations or inquiries, please view my [CV]([link to CV](https://snlandge.github.io/cv/)) or reach out through the [Contact](link to contact page) page.
+Explore my work on the [Research]([link to research page](https://snlandge.github.io/projects/)) and [Publications]([link to publications page](https://snlandge.github.io/publications/)) pages. For collaborations or inquiries, please view my [CV]([link to CV](https://snlandge.github.io/cv/)) or reach out through email.
 
 
