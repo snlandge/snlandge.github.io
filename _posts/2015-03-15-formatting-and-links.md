@@ -8,7 +8,6 @@ tags:
 categories: sample-posts
 ---
 
-# My Experience at the 2024 Inequality by Numbers Workshop
 
 I am thrilled to share my experience of attending the 2024 [*Inequality by Numbers*](https://stonecenter.gc.cuny.edu/stone-centers-inequality-by-the-numbers-workshop-returns-in-person-at-the-graduate-center/#) Workshop, an event hosted by the Stone Center on Socio-Economic Inequality at the CUNY Graduate Center from June 3-7, 2024. My journey to this workshop started with a wonderful surprise—a notification of my acceptance to the workshop, despite fierce competition from over 125 applicants for just 60 slots. I am deeply honored to have been selected.
 
