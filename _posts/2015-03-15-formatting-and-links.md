@@ -1,36 +1,50 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title: My Experience at the 2024 Inequality by Numbers Workshop
+date: 2024-06-10 16:40:16
+description: Inequality by Numbers Workshop
 tags: formatting links
 categories: sample-posts
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+# My Experience at the 2024 Inequality by Numbers Workshop
 
-#### Hipster list
+I am thrilled to share my experience of attending the 2024 [*Inequality by Numbers*](https://stonecenter.gc.cuny.edu/stone-centers-inequality-by-the-numbers-workshop-returns-in-person-at-the-graduate-center/#) Workshop, an event hosted by the Stone Center on Socio-Economic Inequality at the CUNY Graduate Center from June 3-7, 2024. My journey to this workshop started with a wonderful surprise—a notification of my acceptance to the workshop, despite fierce competition from over 125 applicants for just 60 slots. I am deeply honored to have been selected.
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+The acceptance email I received was as follows:
 
-#### Check List
+---
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
+Dear applicant, 
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+We are happy to inform you that you have been admitted to the [*Inequality by the Numbers*](https://stonecenter.gc.cuny.edu/stone-centers-inequality-by-the-numbers-workshop-returns-in-person-at-the-graduate-center/#) workshop that will be held at the CUNY Graduate Center, June 3-7, 2024.
 
-<hr>
+We received over 125 strong applications for 60 slots. As a result, many applicants have been placed on a waiting list. Therefore, we have two important requests:
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+1. Please reply to this email by this Friday, April 12, 2024, to confirm that you accept our invitation to participate in the workshop, or to decline the invitation.
+2. If you accept, please send a short bio (approx. 150 words) and a photo.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+Please update us as soon as possible if your plans change and you will not attend. 
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+We look forward to your participation in June. Further information on the workshop will follow in the near future.
+
+Congratulations!
+
+Leslie McCall  
+Associate Director, Stone Center on Socio-Economic Inequality
+
+---
+
+Receiving this email was an exciting moment, and I eagerly accepted the invitation.
+
+The workshop itself was incredibly well-structured, with each day packed with insightful presentations and discussions. The sessions ranged from topics on labor unions and wealth inequality to health disparities and political participation. Notable speakers such as Leslie McCall, Paul Krugman, and Branko Milanovic shared their invaluable expertise on a wide array of topics. Each talk was complemented by interactive research consultations that allowed participants to discuss their work and receive feedback from peers and experts.
+
+The hands-on sessions were among the highlights of the week. I particularly enjoyed Tina Law's tutorial on computational methods for inequality research, which provided me with practical tools that I plan to incorporate into my own research. Another standout session was by Bhash Mazumder, who focused on intergenerational mobility, a topic closely related to my dissertation work.
+
+Networking was another invaluable part of the workshop. I had the opportunity to meet and interact with fellow researchers, many of whom are working on similar issues related to income inequality, labor markets, and policy impacts. These connections have already proven fruitful in fostering potential collaborations for future research.
+
+Reflecting on my experience, the [*Inequality by Numbers*](https://stonecenter.gc.cuny.edu/stone-centers-inequality-by-the-numbers-workshop-returns-in-person-at-the-graduate-center/#) workshop has significantly enriched my understanding of inequality in both theoretical and practical terms. I look forward to applying the knowledge and techniques I gained here to my ongoing research on intergenerational occupational mobility and income inequality.
+
+Thank you to Leslie McCall and the entire organizing team at the Stone Center for creating such a dynamic and engaging workshop. I highly recommend this experience to any scholar working in the field of inequality studies!
+
+---
