@@ -50,19 +50,19 @@
         - Conducted literature reviews, data collection, and statistical
           analysis for various research projects.
     - title: Work in Progress
-      year: 2024
-      description:
-        - title: <i>Intergenerational Self-Selection Model:<i></i> The Influence of
-            Fathers' and Mothers' Occupations on Children’s Occupational
-            Outcomes</i>
-          contents:
-            - This paper addresses the mechanisms through which parental
-              occupations impact children’s career choices and income outcomes,
-              focusing on both fathers' and mothers' roles in intergenerational
-              occupational mobility.
-       - title: <i>Counterfactual Analysis Using Machine Learning to Understand Differences in Positive and NegativeSelf-Selection:</i>
-         contents:
-       - title: <i>Relationship between Intergenerational Mobility (IGM) and Economic Growth:<i></i> Evidence from Cross-Country Data</i> Investigates the link between IGM and economic growth using a cross-country dataset.
+  year: 2024
+  description:
+    - title: "<i>Intergenerational Self-Selection Model:</i> The Influence of Fathers' and Mothers' Occupations on Children’s Occupational Outcomes"
+      contents:
+        - This paper addresses the mechanisms through which parental occupations impact children’s career choices and income outcomes, focusing on both fathers' and mothers' roles in intergenerational occupational mobility.
+
+    - title: "<i>Counterfactual Analysis Using Machine Learning to Understand Differences in Positive and Negative Self-Selection:</i>"
+      contents:
+        - This research uses machine learning to explore the differences in characteristics between individuals with positive and negative self-selection in occupations.
+
+    - title: "<i>Relationship between Intergenerational Mobility (IGM) and Economic Growth:</i><i>Evidence from Cross-Country Data</i>"
+      contents:
+        - Investigate the link between IGM and economic growth using a cross-country dataset.
 
 - title: Publications
   type: time_table
@@ -115,7 +115,7 @@
   contents:
     - year: 2024
       description:
-        - Attended "Inequality by the Numbers Workshop", Stone Center on Socio-Economic Inequality, New York.
+        - I attended the "Inequality by the Numbers Workshop" at Stone Center on Socio-Economic Inequality, New York.
         - I presented my research during the visit of Chief Economist Morgan Stanley to The Graduate Center, CUNY.
 - title: Professional Experience
   type: time_table
