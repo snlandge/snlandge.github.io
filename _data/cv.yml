@@ -49,32 +49,6 @@
         - Advisor:- Prof. Hany Guirguis, Manhattan College, New York, NY
         - Conducted literature reviews, data collection, and statistical
           analysis for various research projects.
-    - title: Working Papers
-      year: 2021-2024
-      description:
-        - title: <i>Intergenerational Transmission of Occupations in the USA</i>
-          contents:
-            - Explores the mechanisms of occupational inheritance and
-              intergenerational transition matrix in the U.S.
-        - title: <i>Relationship between Intergenerational Mobility (IGM) and Economic
-            Growth:<i></i> Evidence from Cross-Country Data</i>
-          contents:
-            - Investigates the link between IGM and economic growth using a
-              cross-country dataset.
-        - title: <i>Exchange Rate Forecast Model:<i></i> Factor Analysis</i>
-          contents:
-            - Utilizes factor analysis to develop a model for forecasting
-              exchange rates based on historical data.
-        - title: <i>Public Debt, Its Impact on GDP & Crowding Out Effect:<i></i> Evidence
-            from the USA</i>
-          contents:
-            - Examines how public debt influences GDP and assesses the
-              crowding-out effect in the U.S. context.
-        - title: <i>Term Structure of Interest Rates in the U.S:<i></i> A Cointegration
-            Analysis</i>
-          contents:
-            - Analyzes the term structure of interest rates using cointegration
-              techniques to assess long-term trends.
     - title: Work in Progress
       year: 2024
       description:
@@ -86,6 +60,10 @@
               occupations impact children’s career choices and income outcomes,
               focusing on both fathers' and mothers' roles in intergenerational
               occupational mobility.
+       - title: <i>Counterfactual Analysis Using Machine
+Learning to Understand Differences in Positive and Negative
+Self-Selection:<i>
+          contents:
 - title: Publications
   type: time_table
   contents:
