@@ -120,12 +120,17 @@
 - title: Presentations/Conferences/Workshop
   type: time_table
   contents:
+    - year: 2025 (Upcoming)
+      description:
+        - Presenter at the Luxembourg Institute for Interdisciplinary Social Science (LIIS) Conference, Luxembourg.
+        - Presenter at the 62nd Annual AEF (Academy of Economics & Finance ) Conference.
     - year: 2024
       description:
         - I attended the "Inequality by the Numbers Workshop" at Stone Center on
           Socio-Economic Inequality, New York.
         - I presented my research during the visit of Chief Economist Morgan
           Stanley to The Graduate Center, CUNY.
+        - (Upcoming) Student Ambassador for the Association for Public Policy Analysis and Management (APPAM) Annual Fall Research Conference.
 - title: Professional Experience
   type: time_table
   contents:
