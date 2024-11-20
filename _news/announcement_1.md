@@ -5,4 +5,3 @@ inline: true
 related_posts: false
 ---
 
-Launched the website
