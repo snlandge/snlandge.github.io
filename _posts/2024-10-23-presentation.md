@@ -11,7 +11,7 @@ tags:
   - Income Inequality
   - Intergenerational Mobility
 categories: sample-posts
-thumbnail: assets/img/Presentation_Paul.jpg
+thumbnail: 
 ---
 
 # A Memorable Event  
