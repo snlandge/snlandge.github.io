@@ -32,9 +32,29 @@
       institution: Government College of Engineering, Karad, India
       year: 2003-2007
       description: null
-- title: Research Experience
+- title: Research
   type: time_table
   contents:
+     - title: Job Market Paper
+      year: 2025 
+      description:
+        - title: <i>AI and Machine Learning Approaches for Identifying Parental Occupational Skills That Shape
+Children’s Career Choices<i>
+     - title: Work in Progress
+      year: 2024
+      description:
+        - title: <i>Legacy of Labor: The Impact of Parental Jobs on Children’s Career Choices and Income Inequal-
+ity<i>
+          contents:
+            - This paper addresses the mechanisms through which parental
+              occupations impact children’s career choices and income outcomes. 
+        - title: <i>Intergenerational Transmission of Occupation in the USA</i>
+    
+        - title: <i>Relationship between Intergenerational Mobility (IGM) and Economic
+            Growth:</i><i>Evidence from Cross-Country Data</i>
+          contents:
+            - Investigate the link between IGM and economic growth using a
+              cross-country dataset.
     - title: Independent Research
       year: 2019
       description:
@@ -47,35 +67,14 @@
         - Advisor:- Prof. Hany Guirguis, Manhattan College, New York, NY
         - Conducted literature reviews, data collection, and statistical
           analysis for various research projects.
-    - title: Work in Progress
-      year: 2024
-      description:
-        - title: <i>Intergenerational Self-Selection Model:</i> The Influence of Fathers'
-            and Mothers' Occupations on Children’s Occupational Outcomes
-          contents:
-            - This paper addresses the mechanisms through which parental
-              occupations impact children’s career choices and income outcomes,
-              focusing on both fathers' and mothers' roles in intergenerational
-              occupational mobility.
-        - title: <i>Counterfactual Analysis Using Machine Learning to Understand
-            Differences in Positive and Negative Self-Selection:</i>
-          contents:
-            - This research uses machine learning to explore the differences in
-              characteristics between individuals with positive and negative
-              self-selection in occupations.
-        - title: <i>Relationship between Intergenerational Mobility (IGM) and Economic
-            Growth:</i><i>Evidence from Cross-Country Data</i>
-          contents:
-            - Investigate the link between IGM and economic growth using a
-              cross-country dataset.
+    
 - title: Publications
   type: time_table
   contents:
-    - title: Papers Under Review
-      year: 2024
-      description: <i>Legacy of Labour:<i></i> The Impact of Parental Occupations on
-        Children’s Career Choices and Income Inequality</i>   Under review at
-        Journal of Labor Research
+    - title: Accepted, Journal of Business and Economic Studies
+      year: 2025
+      description: <i>Parents, Paths, and Paychecks: Examining Intergenerational Occupational Mobility and Career
+Choices</i>
 - title: Referee Service
   type: time_table
   contents:
@@ -97,15 +96,15 @@
       year: 2021 - Present
       description:
         - Courses taught:- Elementary Macroeconomics, Elementary Microeconomics,
-          Mathematical Economics, and Business Statistics.
-        - Total Courses Taught:- 16 courses.
+          Mathematical Economics, Business Statistics, Urban Economics, and Labor Economics.
+        - Total Courses Taught:- 19 courses.
     - title: Adjunct Lecturer
       institution: Baruch College, New York, NY (Economics and Statistics Departments)
       year: 2022 - Present
       description:
         - Courses taught:- Microeconomics, Business Statistics, and
           Microeconomics (Honors).
-        - Total Courses Taught:- 9 courses.
+        - Total Courses Taught:- 10 courses.
     - title: Data Science Fellow
       institution: Baruch College, New York, NY
       year: 2024- Present
@@ -113,6 +112,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      description:
+        - CUNY Dissertation Fellowship 
+    - year: 2025
+      description:
+        - Stone Center Junior Scholarship
     - year: 2020-2025
       description:
         - Graduate Center Fellowship, The Graduate Center, CUNY (fully funded
@@ -123,11 +128,15 @@
 - title: Presentations/Conferences/Workshop
   type: time_table
   contents:
-    - year: 2025 (Upcoming)
+    - year: 2025 
       description:
         - Presenter at the Luxembourg Institute for Interdisciplinary Social Science (LIIS) Conference, Luxembourg.
-        - Presenter at the 62nd Annual AEF (Academy of Economics & Finance ) Conference.
         - Presenter at the Population Association of America 2025 (PAA) conference.
+        -Population Association of America’s (PAA) annual meeting 2025
+        - Midwest Economics Association (MEA) Annual Meeting, 2025
+        - Eastern Sociological Society Conference, 2025
+        - Eastern Economic Association Annual Meetings 2025
+        - Stone Center Multidisciplinary Seminar Series, NYC, New York, 2025
     - year: 2024
       description:
         - I attended the "Inequality by the Numbers Workshop" at Stone Center on
@@ -171,3 +180,18 @@
     - title: Languages
       items:
         - English, Hindi, Marathi
+- title: References
+  type: nested_list
+  contents:
+    - title: Prof. Miles Corak (Advisor)
+      items:
+        - Professor of Economics
+          PhD Program in Economics
+          CUNY Graduate Center
+          mcorak@gc.cuny.edu
+    - title: Dr. Wim Vijverberg
+      items:
+        - Professor of Economics
+          PhD Program in Economics
+          CUNY Graduate Center
+          wvijverberg@gc.cuny.edu
