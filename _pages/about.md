@@ -26,4 +26,4 @@ Currently, I am working on my dissertation under the supervision of [Professor M
 
 In addition to research, I am passionate about teaching and have designed and taught multiple undergraduate economics courses.
 
-Explore my work on the [Research](https://swapnillandge.com/Research/) and [Publications](https://swapnillandge.com/Publications/) pages. For collaborations or inquiries, please view my [CV](https://swapnillandge.com/assets/pdf/Swapnil_Landge_CV.pdf) or contact me at **slandge@gradcenter.cuny.edu**.
+Explore my work on the [Research](https://swapnillandge.com/Research/) page. For collaborations or inquiries, please view my [CV](https://swapnillandge.com/assets/pdf/Swapnil_Landge_CV.pdf) or contact me at **slandge@gradcenter.cuny.edu**.
