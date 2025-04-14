@@ -1,29 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: 
+subtitle: PhD Candidate | Intergenerational Mobility | Applied Econometrics
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>PhD Candidate in Economics at The Graduate Center, CUNY</p>
+    <p>Adjunct Lecturer at Baruch College and Brooklyn College</p>
+    <p>Researcher in Labor Economics, Inequality, and Machine Learning</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false
+selected_papers: false
+social: true
 ---
 
-<a><strong>Hello!</strong></a> I’m Swapnil Landge, a PhD Candidate in Economics at [The Graduate Center, City University of New York (CUNY)](https://www.gc.cuny.edu/). I am also an adjunct lecturer at [Baruch College's Zicklin School of Business](https://www.baruch.cuny.edu/) and [Brooklyn College's Murray Koppelman School of Business](https://www.brooklyn.edu/). My research spans intergenerational occupational mobility, income inequality, labor economics, Applied Microeconomics, and Applied Econometrics with a focus on how these areas intersect to shape economic outcomes.
+**Hello!** I’m **Swapnil Landge**, a PhD Candidate in Economics at [The Graduate Center, City University of New York (CUNY)](https://www.gc.cuny.edu/). I also serve as an adjunct lecturer at [Baruch College's Zicklin School of Business](https://www.baruch.cuny.edu/) and [Brooklyn College's Murray Koppelman School of Business](https://www.brooklyn.edu/).
 
-I am currently working on my dissertation under the supervision of [Professor Miles Corak](https://milescorak.com/about/). My research utilizes econometric methods and machine learning models to examine self-selection across occupations. I develop models to explore how parental occupations influence children’s career choices and income inequality, aiming to deepen our understanding of occupational mobility and its broader economic implications.
+My research spans **intergenerational occupational mobility**, **income inequality**, **labor economics**, **applied microeconomics**, and **microeconometrics**. I focus on how these areas intersect to shape economic outcomes.
 
-In addition to my research, I teach economics courses, which allows me to share my passion for the field with students.
+Currently, I am working on my dissertation under the supervision of [Professor Miles Corak](https://milescorak.com/about/). I use a combination of econometric methods and machine learning to develop self-selection models that explore how parental occupations influence children’s career choices and income inequality.
 
-Explore my work on the [Research]([link to research page]([https://snlandge.github.io/projects/](https://swapnillandge.com/Research/))) and [Publications]([link to publications page]([https://snlandge.github.io/publications/](https://swapnillandge.com/Research/))) pages. For collaborations or inquiries, please view my [CV]([link to CV]([https://snlandge.github.io/cv/](https://swapnillandge.com/assets/pdf/Swapnil_Landge_CV.pdf))) or reach out through email ( slandge@gradcenter.cuny.edu).
+In addition to research, I am passionate about teaching and have designed and taught multiple undergraduate economics courses.
 
-
+Explore my work on the [Research](https://swapnillandge.com/Research/) and [Publications](https://swapnillandge.com/Publications/) pages. For collaborations or inquiries, please view my [CV](https://swapnillandge.com/assets/pdf/Swapnil_Landge_CV.pdf) or contact me at **slandge@gradcenter.cuny.edu**.
