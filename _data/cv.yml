@@ -1,197 +1,178 @@
 ---
-- title: null
+- title: Basic Information
   type: map
   contents:
     - name: Full Name
       value: Swapnil Landge
     - name: Email
       value: slandge@gradcenter.cuny.edu
-    - name: url
-      value: <a href="https://swapnillandge.com/">www.swapnillandge.com</a>
+    - name: Website
+      value: www.swapnillandge.com
+
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. Candidate in Economics
       institution: The Graduate Center, City University of New York (CUNY)
-      year: 2020-Present
+      year: 2020–Present
       description:
-        - Advisor:- Prof. Miles Corak
+        - Advisor: Prof. Miles Corak
     - title: M.Phil. in Economics
       institution: The Graduate Center, City University of New York (CUNY)
-      year: 2020-2023
-      description: null
+      year: 2020–2023
     - title: Master of Science (M.S.) in Econometrics and Quantitative Economics
       institution: University at Buffalo, State University of New York (SUNY)
-      year: 2018-2020
-      description: null
-    - title: Master of Business Administration (MBA) in Operations Management
+      year: 2018–2020
+    - title: MBA in Operations Management
       institution: Symbiosis Institute of Operations Management, SIU Pune, India
-      year: 2008-2010
-      description: null
-    - title: Bachelor of Engineering (B.E.) in Electrical Engineering
+      year: 2008–2010
+    - title: B.E. in Electrical Engineering
       institution: Government College of Engineering, Karad, India
-      year: 2003-2007
-      description: null
+      year: 2003–2007
+
 - title: Research
   type: time_table
   contents:
-     - title: Job Market Paper
-      year: 2025 
+    - title: Job Market Paper
+      year: 2025
       description:
-        - title: <i>AI and Machine Learning Approaches for Identifying Parental Occupational Skills That Shape
-Children’s Career Choices<i>
-     - title: Work in Progress
+        - "AI and Machine Learning Approaches for Identifying Parental Occupational Skills That Shape Children’s Career Choices"
+    - title: Work in Progress
       year: 2024
       description:
-        - title: <i>Legacy of Labor: The Impact of Parental Jobs on Children’s Career Choices and Income Inequal-
-ity<i>
-          contents:
-            - This paper addresses the mechanisms through which parental
-              occupations impact children’s career choices and income outcomes. 
-        - title: <i>Intergenerational Transmission of Occupation in the USA</i>
-    
-        - title: <i>Relationship between Intergenerational Mobility (IGM) and Economic
-            Growth:</i><i>Evidence from Cross-Country Data</i>
-          contents:
-            - Investigate the link between IGM and economic growth using a
-              cross-country dataset.
+        - "Legacy of Labor: The Impact of Parental Jobs on Children’s Career Choices and Income Inequality"
+        - "Intergenerational Transmission of Occupation in the USA"
+        - "Relationship between Intergenerational Mobility (IGM) and Economic Growth: Evidence from Cross-Country Data"
     - title: Independent Research
       year: 2019
       description:
-        - Advisor:- Prof. Isaac Ehrlich, University at Buffalo, SUNY
-        - Researched how the college premium has changed over time using CPS as
-          a data source.
+        - Advisor: Prof. Isaac Ehrlich, University at Buffalo, SUNY
+        - Researched changes in the college premium using CPS data
     - title: Independent Research
       year: 2022
       description:
-        - Advisor:- Prof. Hany Guirguis, Manhattan College, New York, NY
-        - Conducted literature reviews, data collection, and statistical
-          analysis for various research projects.
-    
+        - Advisor: Prof. Hany Guirguis, Manhattan College, NY
+        - Conducted literature reviews, data collection, and statistical analysis
+
 - title: Publications
   type: time_table
   contents:
     - title: Accepted, Journal of Business and Economic Studies
       year: 2025
-      description: <i>Parents, Paths, and Paychecks: Examining Intergenerational Occupational Mobility and Career
-Choices</i>
+      description:
+        - "Parents, Paths, and Paychecks: Examining Intergenerational Occupational Mobility and Career Choices"
+
 - title: Referee Service
   type: time_table
   contents:
-    - title: Reviewer for the Journal of Health Economics and Outcomes Research
+    - title: Reviewer for Journal of Health Economics and Outcomes Research
       year: 2024
       description:
-        - Conducted peer reviews for manuscripts on topics related to the market
-          in health economics
-    - title: Reviewer for the Journal of Finance and Accounting
+        - Peer reviews on health economics market-related manuscripts
+    - title: Reviewer for Journal of Finance and Accounting
       year: 2024
       description:
-        - Conducted peer reviews for manuscripts on topics related to financial
-          economics.
+        - Peer reviews on financial economics
+
 - title: Teaching Experience
   type: time_table
   contents:
     - title: Adjunct Lecturer
-      institution: Brooklyn College, New York, NY (Economics Department)
-      year: 2021 - Present
+      institution: Brooklyn College, NY (Economics Department)
+      year: 2021–Present
       description:
-        - Courses taught:- Elementary Macroeconomics, Elementary Microeconomics,
-          Mathematical Economics, Business Statistics, Urban Economics, and Labor Economics.
-        - Total Courses Taught:- 19 courses.
+        - Courses: Macroeconomics, Microeconomics, Mathematical Economics, Business Statistics, Urban Economics, Labor Economics
+        - Total Courses: 19
     - title: Adjunct Lecturer
-      institution: Baruch College, New York, NY (Economics and Statistics Departments)
-      year: 2022 - Present
+      institution: Baruch College, NY (Economics and Statistics Departments)
+      year: 2022–Present
       description:
-        - Courses taught:- Microeconomics, Business Statistics, and
-          Microeconomics (Honors).
-        - Total Courses Taught:- 10 courses.
+        - Courses: Microeconomics, Business Statistics, Microeconomics (Honors)
+        - Total Courses: 10
     - title: Data Science Fellow
-      institution: Baruch College, New York, NY
-      year: 2024- Present
-      description: null
+      institution: Baruch College, NY
+      year: 2024–Present
+
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2025
       description:
-        - CUNY Dissertation Fellowship 
-    - year: 2025
-      description:
+        - CUNY Dissertation Fellowship
         - Stone Center Junior Scholarship
-    - year: 2020-2025
+    - year: 2020–2025
       description:
-        - Graduate Center Fellowship, The Graduate Center, CUNY (fully funded
-          for five years)
+        - Graduate Center Fellowship (fully funded 5 years)
     - year: 2024
       description:
-        - 2024 APPAM Student Ambassador Award, Recognized by the Association for Public Policy Analysis & Management (APPAM) for accomplishments and contributions to public policy research and engagement, November 2024
-- title: Presentations/Conferences/Workshop
+        - APPAM Student Ambassador Award, Nov 2024
+
+- title: Invited Conference/Seminar Presentations
   type: time_table
   contents:
-    - year: 2025 
+    - year: 2025
       description:
-        - Presenter at the Luxembourg Institute for Interdisciplinary Social Science (LIIS) Conference, Luxembourg.
-        - Presenter at the Population Association of America 2025 (PAA) conference.
-        -Population Association of America’s (PAA) annual meeting 2025
-        - Midwest Economics Association (MEA) Annual Meeting, 2025
-        - Eastern Sociological Society Conference, 2025
-        - Eastern Economic Association Annual Meetings 2025
-        - Stone Center Multidisciplinary Seminar Series, NYC, New York, 2025
+        - Luxembourg Institute for Interdisciplinary Social Science (LIIS) Conference, Luxembourg
+        - PAA Conference 2025
+        - Midwest Economics Association Annual Meeting
+        - Eastern Sociological Society Conference
+        - Eastern Economic Association Annual Meeting
+        - Stone Center Multidisciplinary Seminar Series, NYC
     - year: 2024
       description:
-        - I attended the "Inequality by the Numbers Workshop" at Stone Center on
-          Socio-Economic Inequality, New York.
-        - I presented my research during the visit of Chief Economist Morgan
-          Stanley to The Graduate Center, CUNY.
-        - Lead the ignite session at the Association for Public Policy Analysis and Management (APPAM 2024) Annual Fall Research Conference.
+        - Inequality by the Numbers Workshop, Stone Center, NYC
+        - Presented during Morgan Stanley Chief Economist's visit to CUNY
+        - Ignite session lead at APPAM Annual Conference
+
 - title: Professional Experience
   type: time_table
   contents:
     - title: Project Manager
-      institution: Procter & Gamble (P&G)
+      institution: Procter & Gamble
       year: 2020
       description:
-        - Managed project timelines and deliverables for the P&G SAP HANA
-          transformation project.
+        - Led SAP HANA transformation project
     - title: Project Manager
       institution: Robert Bosch
-      year: 2010 - 2019
+      year: 2010–2019
       description:
-        - Led multiple IT and process transformation projects in various
-          manufacturing plants.
+        - Managed IT and process transformation projects
     - title: Founder
       institution: Breakfastwala.com
-      year: 2009 - 2010
+      year: 2009–2010
       description:
-        - Established a breakfast delivery startup, managing logistics,
-          operations, and customer service.
+        - Ran a breakfast delivery startup in India
     - title: Engineer
       institution: Emerson Network Power
-      year: 2007 - 2008
+      year: 2007–2008
       description:
-        - Provided technical support, Pres sales and managed power systems for
-          telecommunications clients.
+        - Provided power system support for telecom clients
+
 - title: Skills
   type: nested_list
   contents:
     - title: Econometrics Software
       items:
-        - Stata, R, Python, MATLAB
+        - Stata
+        - R
+        - Python
+        - MATLAB
     - title: Languages
       items:
-        - English, Hindi, Marathi
+        - English
+        - Hindi
+        - Marathi
+
 - title: References
   type: nested_list
   contents:
     - title: Prof. Miles Corak (Advisor)
       items:
         - Professor of Economics
-          PhD Program in Economics
-          CUNY Graduate Center
-          mcorak@gc.cuny.edu
+        - PhD Program in Economics, CUNY Graduate Center
+        - mcorak@gc.cuny.edu
     - title: Dr. Wim Vijverberg
       items:
         - Professor of Economics
-          PhD Program in Economics
-          CUNY Graduate Center
-          wvijverberg@gc.cuny.edu
+        - PhD Program in Economics, CUNY Graduate Center
+        - wvijverberg@gc.cuny.edu
