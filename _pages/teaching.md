@@ -9,6 +9,13 @@ nav_order: 6
 
 ## Academic Year 2024-2025
 
+- **Spring 2025**
+  - Adjunct Lecturer, Labor Economics (ECON 3212) and Urban Economics (ECON 3232), Brooklyn College, NY
+  - Adjunct Lecturer, Business Statistics (STA 2000), Baruch College, NY
+  - 
+- **Winter 2025**
+  - Adjunct Lecturer, Intro to Economics & Business Statistics (ECON 3400), Brooklyn College, NY
+
 - **Fall 2024**
   - Adjunct Lecturer, Intro to Economics & Business Statistics (ECON 3400), Brooklyn College, NY
   - Adjunct Lecturer, Business Statistics (STA 2000) and Microeconomics (ECO 1001), Baruch College, NY
