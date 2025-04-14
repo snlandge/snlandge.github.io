@@ -10,7 +10,7 @@ nav_order: 7
 ### Job Market Paper:
 
 - ***"AI and Machine Learning Approaches for Identifying Parental Occupational Skills That Shape
-Children’s Career Choices"***\
+Children’s Career Choices"***
   
 ### Publications
 
