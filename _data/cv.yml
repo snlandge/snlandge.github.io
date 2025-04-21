@@ -1,5 +1,4 @@
 - title: Download CV
-  type: link
+  type: list
   contents:
-    - name: Download PDF
-      url: /assets/pdf/Swapnil_Landge_CV.pdf
+    - "[Download CV](/assets/pdf/Swapnil_Landge_CV.pdf)"
