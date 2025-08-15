@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Academic Year 2024-2025
+## Academic Year 2025-2026
 - **Fall 2025**
   - Adjunct Lecturer, Financial Economics (ECON 3332), Brooklyn College, NY
   - Adjunct Lecturer, Business Statistics (STA 2000) and Honors Microeconomics (ECO 1001H), Baruch College, NY
