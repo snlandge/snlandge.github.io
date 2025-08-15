@@ -9,18 +9,17 @@ nav_order: 7
 
 ### Job Market Paper:
 
-- ***"AI and Machine Learning Approaches for Identifying Parental Occupational Skills That Shape
-Children’s Career Choices"***
+- ***"Intergenerational Transfer of Occupational Skills: A Causal AI and Machine Learning Analysis of Fathers' Skills and Children's Career Outcomes"***
   
-### Publications
+### Publications 
 
-- ***"Parents, Paths, and Paychecks: Examining Intergenerational Occupational Mobility and Career Choices"***\
-  *Accepted, Journal of Business and Economic Studies.*
+- ***"Intergenerational Self-Selection Model: The Influence of Fathers’ and Mothers’ Occupations on Children’s Occupational Outcomes"***\
+  *R & R, Journal of Applied Economics.*
+
+ - ***"Legacy of Labor: The Impact of Parental Jobs on Children’s Career Choices and Income Inequality"***\
+  *R & R, Journal of Applied Econometrics.*
 
 ### Working Papers / Term Papers
-
-- ***"Legacy of Labour: The Impact of Parental Occupations on Children’s Career Choices and Income Inequality"***\
-  This paper explores the mechanisms through which parental occupations influence children's career choices and income outcomes.
 
 - ***"Intergenerational Transmission of Occupations in the USA"***\
   Explores the mechanisms of occupational inheritance and intergenerational transition matrices in the U.S.
