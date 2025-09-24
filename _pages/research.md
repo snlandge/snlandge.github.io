@@ -9,7 +9,7 @@ nav_order: 7
 
 ### Job Market Paper:
 
-- ***"Intergenerational Transfer of Occupational Skills: A Causal AI and Machine Learning Analysis of Fathers' Skills and Children's Career Outcomes"***
+- ***"Intergenerational Transfer of Occupational Skills: Machine Learning Analysis of Fathers' Skills and Children's Career Outcomes"***
   
 ### Publications 
 
