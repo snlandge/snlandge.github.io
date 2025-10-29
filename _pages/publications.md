@@ -9,7 +9,6 @@ nav_order: 3
 
 <!-- _pages/media-coverage.md -->
 
-## Media Coverage & Featured Articles
 
 - “How Does Intergenerational Occupational Mobility Fuel Earnings Inequality?” — *Stone Center on Socio-Economic Inequality, CUNY Graduate Center*, June 2024.  
   [Read the feature →](https://stonecenter.gc.cuny.edu/how-does-intergenerational-occupational-mobility-fuel-earnings-inequality/)
