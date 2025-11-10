@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Ph.D. Candidate in Economics, The Graduate Center (CUNY)</p>
     <p>Adjunct Lecturer, Baruch College & Brooklyn College</p>
-    <p>Researcher in Labor Economics, Inequality, and Machine Learning</p>
+    <p>Researcher in Labor Economics, Applied Econometrics, Inequality, and Machine Learning</p>
 
 news: false
 selected_papers: false
