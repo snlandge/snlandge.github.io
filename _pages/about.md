@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate | Labour Economics | Applied Econometrics
+subtitle: Ph.D. Candidate | Labor Economics | Applied Econometrics
 
 profile:
   align: right
