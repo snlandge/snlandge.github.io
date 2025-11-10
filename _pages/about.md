@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate | Intergenerational Mobility | Applied Econometrics
+subtitle: Ph.D. Candidate | Labour Economics | Applied Econometrics
 
 profile:
   align: right
