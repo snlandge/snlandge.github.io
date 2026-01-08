@@ -1,31 +1,46 @@
 ---
 layout: post
-title: Opportunity to Present My Research in Front of Esteemed Guests
+title: Engaging with Nobel Laureates on AI and the Future of Work
 date: 2024-10-23 21:01:00
-description: A memorable event presenting research at The Graduate Center, CUNY, with Nobel Laureate Paul Krugman in attendance.
+description: An unforgettable evening at The Graduate Center, CUNY, featuring Nobel Laureates Daron Acemoglu and Paul Krugman discussing how AI is reshaping the future of work.
 tags: 
   - The Graduate Center CUNY
   - Economics
-  - Research Presentation
+  - Artificial Intelligence
+  - Labor Economics
+  - Daron Acemoglu
   - Paul Krugman
   - Income Inequality
   - Intergenerational Mobility
 categories: sample-posts
 thumbnail: 
 ---
+# An Unforgettable Evening on AI, Labor, and the Future of Work
 
-# A Memorable Event  
+I had the privilege of attending and engaging in a remarkable discussion at The Graduate Center, CUNY titled **“AI and the Future of Work.”**  
+The event brought together an extraordinary panel of scholars and public intellectuals, including **Nobel Laureates Daron Acemoglu and Paul Krugman**, alongside Danielle Li and Zeynep Tufekci, with Steven Greenhouse moderating.
 
-This past week, I had the privilege of presenting my research at an extraordinary event organized by the Economics Department at The Graduate Center, CUNY. The event provided an exceptional platform for sharing groundbreaking ideas, fostering intellectual exchange, and celebrating the achievements of our vibrant academic community.
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/AI_Future_of_Work_Panel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+It was truly inspiring to witness **two Nobel laureates on the same stage**, offering complementary yet distinct perspectives on how artificial intelligence is reshaping labor markets, productivity, and economic inequality.
+
+During his talk, **Professor Daron Acemoglu** emphasized a critical insight:  
+while progress toward powerful AI and AGI systems has been rapid, the **translation of these technologies into real-world production processes that meaningfully raise productivity remains surprisingly limited.**  
+This gap, he argued, represents one of the most important challenges—and opportunities—for modern economies.
+
+After the panel, I had the pleasure of briefly meeting Professor Acemoglu and exchanging thoughts on the discussion — a memorable moment with one of the most influential economists of our time.
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/Meeting_Acemoglu.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+Earlier in the week, I also had the opportunity to present my own research on **Intergenerational Occupational Mobility and Income Inequality** at an Economics Department event at the Graduate Center, with **Professor Paul Krugman** in attendance — an experience that remains deeply motivating.
 
 <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/Presentation_Paul.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
-One of the event's most remarkable highlights was the attendance of **Nobel Laureate Professor Paul Krugman**, a towering figure in the field of economics. It was an incredible honor to present my research on **Intergenerational Occupational Mobility and Income Inequality** to such a distinguished audience. Professor Krugman’s groundbreaking contributions to economics have profoundly influenced my academic journey. Having him in the audience during my presentation was both humbling and inspiring—a moment I will cherish throughout my career.
-
-In addition to Professor Krugman’s presence, the event also featured **Ellen Zentner**, the Chief Economic Strategist and Global Head of Thematic and Macro Investing for Morgan Stanley Wealth Management. As a Graduate Center Foundation board member, Ms. Zentner shared invaluable career tips and industry insights with students, bridging the gap between academia and real-world economic applications. Her talk provided a refreshing perspective on the intersection of economics research and industry practices, and it was especially inspiring to hear from someone whose work directly impacts global markets and investment strategies.
-
----
-
-This event has left me more motivated than ever to continue my work on understanding and addressing issues like income inequality and economic mobility. Stay tuned for more updates as I progress on my academic journey!
+Together, these experiences reinforced my commitment to studying how technological change interacts with labor markets, inequality, and intergenerational mobility.  
+Engaging directly with scholars whose work has shaped modern economic thought was both humbling and energizing — and a powerful reminder of why I chose this field.
