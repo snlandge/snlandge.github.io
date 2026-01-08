@@ -33,14 +33,7 @@ This gap, he argued, represents one of the most important challenges—and oppor
 After the panel, I had the pleasure of briefly meeting Professor Acemoglu and exchanging thoughts on the discussion — a memorable moment with one of the most influential economists of our time.
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Meeting_Acemoglu.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-</div>
-
-Earlier in the week, I also had the opportunity to present my own research on **Intergenerational Occupational Mobility and Income Inequality** at an Economics Department event at the Graduate Center, with **Professor Paul Krugman** in attendance — an experience that remains deeply motivating.
-
-<div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Presentation_Paul.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/Daron_Acemoglu.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 Together, these experiences reinforced my commitment to studying how technological change interacts with labor markets, inequality, and intergenerational mobility.  
-Engaging directly with scholars whose work has shaped modern economic thought was both humbling and energizing — and a powerful reminder of why I chose this field.
