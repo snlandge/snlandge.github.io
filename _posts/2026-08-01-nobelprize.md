@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Engaging with Nobel Laureates on AI and the Future of Work
-date: 2024-10-23 21:01:00
+date: 2025-10-07 21:01:00
 description: An unforgettable evening at The Graduate Center, CUNY, featuring Nobel Laureates Daron Acemoglu and Paul Krugman discussing how AI is reshaping the future of work.
 tags: 
   - The Graduate Center CUNY
