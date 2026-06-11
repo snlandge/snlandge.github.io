@@ -40,6 +40,6 @@ My research has been supported by the **Dissertation Year Fellowship** and the *
 For more information about my research, publications, and ongoing projects, please explore the pages on this website.
 
 **Email:** [swapnil.landge@ahduni.edu.in](mailto:swapnil.landge@ahduni.edu.in)
-**Alternative Email:** [slandge@gradcenter.cuny.edu](mailto:slandge@gradcenter.cuny.edu)
+**Alternative Email:** [snlandge@gmail.com](mailto:snlandge@gmail.com)
 
 **CV:** [Download CV](/assets/pdf/Swapnil_Landge_CV.pdf)
