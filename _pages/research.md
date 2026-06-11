@@ -7,77 +7,78 @@ nav: true
 nav_order: 7
 ---
 
-## Job Market Paper
+My research lies at the intersection of **labor economics**, **intergenerational mobility**, **income inequality**, and **applied microeconometrics**. I study how family background, occupational choices, and skill transmission shape economic opportunities across generations. My work combines structural modeling, econometric analysis, and machine learning methods to better understand the mechanisms driving inequality and economic mobility.
 
-### *Intergenerational Transmission of Occupational Skills in the U.S.: A Machine Learning Analysis of Fathers’ Skills and Children’s Career Outcomes*  
+---
+
+## Featured Research
+
+### *Intergenerational Transmission of Occupational Skills in the United States: A Machine Learning Analysis of Fathers’ Skills and Children’s Career Outcomes*
+
 [📄 View Paper](https://drive.google.com/file/d/1AZLXEJ62HtWZUdsKd4qTyatrnYCL0KD8/view?usp=drive_link){:target="_blank"}
 
-This paper shows that fathers’ occupational skills have distinct and systematic effects on children’s career outcomes using a **multinomial logistic regression (MLogit)** framework and **machine learning models with SHAP interpretability**.  
-- Fathers' **Technical skills** increase children’s likelihood of entering service occupations and skilled labor while reducing entry into office and administrative tracks.  
-- **Analytical skills** exert the strongest single effect, raising entry into office and administrative roles by over one percentage point—a four-percent increase relative to baseline predicted probability.  
-- **Communication and problem-solving skills** channel children into education, healthcare, and transport, reflecting the interpersonal and operational demands of these sectors.  
-- **Management skills** reinforce persistence in business and managerial pathways but reduce entry into transportation.
+Using data from IPUMS USA and O*NET, this paper examines how fathers’ occupational skills influence children's occupational outcomes. Combining multinomial logistic regression and machine-learning methods with SHAP interpretability, the study demonstrates that technical, analytical, communication, problem-solving, and management skills are transmitted across generations and significantly shape occupational sorting.
 
-While the average marginal effects appear modest in absolute size, their proportional impact relative to baseline occupational probabilities is substantial.  
-**Key takeaway:** Skills—not only credentials or parental resources—are the key currency of occupational inheritance.
+**Keywords:** Occupational Choice, Intergenerational Mobility, Machine Learning, Human Capital, Labor Economics
 
 ---
 
-## Revise and Resubmit (R&R)
+## Publications
 
-### *Legacy of Labor: The Impact of Parental Jobs on Children’s Career Choices and Income Inequality*  
-*Journal of Applied Econometrics*  
-[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083029){:target="_blank"}
+### *Parents, Paths, and Paychecks: Examining Intergenerational Occupational Mobility and Career Choices*
 
-This paper introduces a novel empirical model of occupational self-selection that integrates the **Roy model** with **Becker and Tomes’s theory of intergenerational transmission**. The key innovation is modeling innate skills using a **bivariate Fréchet distribution**, allowing for asymmetric, parent-influenced skill inheritance.
+**Journal of Behavioral and Experimental Economics (JBEE), Forthcoming (2026)**
 
-The main finding reveals that a significant proportion of children from middle- and low-income backgrounds are **negatively self-selected** into their parents’ occupations—meaning they would have been more productive and earned higher wages in other fields. Specifically:  
-- 11.5% of children from middle-income families  
-- 21.9% of children from low-income families  
-fall into this category, indicating a **misallocation of talent** and a mechanism by which inequality persists across generations.
-
----
-
-### *Intergenerational Self-Selection Model: The Influence of Fathers’ and Mothers’ Occupations on Children’s Occupational Outcomes*  
-*Journal of Applied Economics*  
-[📄 View Paper](https://drive.google.com/file/d/1ZucPXfmXhHHPeG1p6k0T4fCgtn8CKQ4G/view?usp=drive_link){:target="_blank"}
-
-This paper applies the **self-selection framework** to compare the influence of mothers’ and fathers’ occupations on sons’ and daughters’ career outcomes.  
-Findings show that:  
-- **Sons** experience *positive self-selection* when following their fathers’ occupations, especially in skilled, high-wage fields.  
-- **Daughters** (and some sons) who follow their mothers’ occupations in low-wage sectors such as service or farming often face *negative self-selection*—they would have earned more in alternative careers.
-
-These results highlight the **gendered dynamics of occupational inheritance** and the structural inefficiencies it perpetuates in the labor market.
+This paper examines the relationship between occupational inheritance, career choice, and earnings outcomes using nationally representative U.S. data. The findings demonstrate how occupational persistence contributes to the transmission of economic advantage and disadvantage across generations.
 
 ---
 
 ## Working Papers
 
-### *Intergenerational Transmission of Occupations in the USA*  
+### *Legacy of Labor: The Impact of Parental Jobs on Children's Career Choices and Income Inequality*
+
+**Revise and Resubmit**
+
+[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083029){:target="_blank"}
+
+This paper develops a novel model of occupational self-selection that integrates the Roy model with intergenerational transmission theory. The analysis shows that many children from low- and middle-income families are negatively self-selected into their parents' occupations, resulting in talent misallocation and persistent inequality.
+
+---
+
+### *Intergenerational Self-Selection Model: The Influence of Fathers’ and Mothers’ Occupations on Children’s Occupational Outcomes*
+
+[📄 View Paper](https://drive.google.com/file/d/1ZucPXfmXhHHPeG1p6k0T4fCgtn8CKQ4G/view?usp=drive_link){:target="_blank"}
+
+This paper extends the self-selection framework to examine differences in occupational transmission across mothers and fathers and across sons and daughters. The results reveal important gender-specific patterns in occupational inheritance and labor market outcomes.
+
+---
+
+### *Intergenerational Transmission of Occupations in the United States*
+
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4919255){:target="_blank"}
 
-This study uses **56,952 parent–child pairs** from the PSID (1968–2001) to examine occupational inheritance across the full occupational spectrum, rather than rankings.  
-- Occupational following is strongest at both extremes of the socioeconomic ladder.  
-- Sons of professionals have a **32.1%** probability of entering the same field, while sons of service workers show a **25.8%** match rate.  
-
-These findings show that inequality is reproduced not only through privilege but also through disadvantage, via **occupation-specific human capital** and **intangible barriers** such as soft skills.
+Using longitudinal data from the Panel Study of Income Dynamics (PSID), this paper investigates occupational inheritance across the occupational distribution and documents substantial persistence at both the top and bottom of the socioeconomic ladder.
 
 ---
 
-### *Relationship between Intergenerational Mobility (IGM) and Economic Growth: Evidence from Cross-Country Data*  
+### *Relationship Between Intergenerational Mobility and Economic Growth: Evidence from Cross-Country Data*
+
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4919306){:target="_blank"}
 
-Extending **Aiyar and Ebeke (2019)**, this paper combines **GDIM 2021** and **All the Ginis 2019** datasets and applies a **dynamic panel System GMM** approach to address endogeneity.  
-Key results:  
-- Income inequality reduces growth more sharply in countries with *low intergenerational mobility*.  
-- In high-mobility societies, this adverse effect is **substantially muted**.  
-
-These findings stress that fostering **equality of opportunity** is as crucial as reducing income inequality itself.
+Using cross-country panel data and System GMM estimation, this study examines how intergenerational mobility moderates the relationship between income inequality and economic growth. The findings suggest that higher mobility can substantially mitigate the growth-reducing effects of inequality.
 
 ---
 
-## Other Research & Term Papers
+## Research in Progress
 
-- *Exchange Rate Forecast Model: Factor Analysis* — Develops a factor-based model for predicting exchange rate movements using historical macro-financial data.  
-- *Public Debt, GDP & Crowding-Out Effect: Evidence from the USA* — Analyzes how rising public debt affects private investment and GDP dynamics.  
-- *Term Structure of Interest Rates in the U.S.: A Cointegration Analysis* — Uses cointegration techniques to examine long-term movements in the U.S. yield curve.
+### *Intergenerational Transmission of Occupational Skills in the United States: A Machine Learning Analysis of Fathers’ Skills and Children’s Career Outcomes*
+
+[📄 View Paper](https://drive.google.com/file/d/1AZLXEJ62HtWZUdsKd4qTyatrnYCL0KD8/view?usp=drive_link){:target="_blank"}
+
+---
+
+## Earlier Research
+
+* *Exchange Rate Forecasting Using Factor Models*
+* *Public Debt, GDP, and the Crowding-Out Effect: Evidence from the United States*
+* *Term Structure of Interest Rates in the United States: A Cointegration Analysis*
