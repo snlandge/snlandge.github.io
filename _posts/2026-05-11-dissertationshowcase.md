@@ -27,26 +27,31 @@ Drawing on large-scale longitudinal and census datasets, my research investigate
 
 ### Watch the Presentation
 
-**My Dissertation Showcase Presentation**
+[🎥 Watch My Dissertation Showcase Presentation](https://youtu.be/TpySTyLmBjg?si=aPeD3gb8CI-qVC1f){:target="_blank"}
 
-▶️ https://youtu.be/TpySTyLmBjg?si=aPeD3gb8CI-qVC1f
+[🎥 Watch the Full Event Recording](https://youtu.be/9ol0o5ZqHBg?si=OM2Tl1E_uMctyrs-){:target="_blank"}
 
-**Full Event Recording**
-
-▶️ https://youtu.be/9ol0o5ZqHBg?si=OM2Tl1E_uMctyrs-
+[📖 Event Information](https://www.gc.cuny.edu/events/inside-cuny-graduate-center-dissertation-showcase-3){:target="_blank"}
 
 ### Event Photos
 
 #### Dissertation Showcase Presenters
 
-![Dissertation Showcase Presenters](/assets/img/dissertation-showcase-presenters.jpg)
+<div class="text-center">
+  <img src="/assets/img/dissertation-showcase-presenters.jpg"
+       alt="Dissertation Showcase Presenters"
+       style="max-width:100%; height:auto;">
+</div>
 
 *Presenters selected for the 2026 Dissertation Showcase at The Graduate Center, CUNY.*
 
 #### With My Dissertation Advisor, Professor Miles Corak
 
-![With Professor Miles Corak](/assets/img/miles-corak-dissertation-showcase.jpg)
-
+<div class="text-center">
+  <img src="/assets/img/miles-corak-dissertation-showcase.jpg"
+       alt="With Professor Miles Corak"
+       style="max-width:70%; height:auto;">
+</div>
 *With my dissertation advisor, Professor Miles Corak, whose mentorship and guidance have been invaluable throughout my doctoral journey.*
 
 ### Reflections
