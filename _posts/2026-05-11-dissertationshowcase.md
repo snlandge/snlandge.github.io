@@ -1,12 +1,18 @@
 ---
-
 layout: post
-title: "Presenting at the Graduate Center Dissertation Showcase 2026"
-date: 2026-06-10
+title: Presenting at the Graduate Center Dissertation Showcase 2026
+date: 2026-06-10 21:01:00
 description: Sharing my dissertation research on intergenerational mobility and occupational choice at the Graduate Center Dissertation Showcase.
-tags: [research, dissertation, labor economics, inequality, CUNY]
------------------------------------------------------------------
-
+tags: 
+  - research
+  - dissertation
+  - dissertation showcase
+  - Labor Economics
+  - Income Inequality
+  - Intergenerational Mobility
+categories: sample-posts
+thumbnail: 
+---
 ## Presenting at the Graduate Center Dissertation Showcase 2026
 
 I was honored to be selected as one of the doctoral researchers featured in the **2026 Dissertation Showcase** at **The Graduate Center, City University of New York (CUNY)**. The event brought together a small group of Ph.D. candidates from across disciplines to present their dissertation research to a broad academic audience, alumni, students, and members of the public.
