@@ -45,7 +45,7 @@ Drawing on large-scale longitudinal and census datasets, my research investigate
 
 #### With My Dissertation Advisor, Professor Miles Corak
 
-![With Professor Miles Corak](/assets/img/dissertation-showcase-advisor.jpg)
+![With Professor Miles Corak](/assets/img/miles-corak-dissertation-showcase.jpg)
 
 *With my dissertation advisor, Professor Miles Corak, whose mentorship and guidance have been invaluable throughout my doctoral journey.*
 
